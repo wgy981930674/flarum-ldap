@@ -1,12 +1,12 @@
 {
-	"name": "tituspijean/flarum-ext-auth-ldap1",
+	"name": "981930674/flarum-ldap",
 	"description": "1Allow users to log in through LDAP.",
 	"type": "flarum-extension",
 	"keywords": ["authentication"],
 	"license": "MIT",
 	"authors": [{
-		"name": "1tituspijean",
-		"email": "tituspijean@outlook.com"
+		"name": "981930674",
+		"email": "98193064@qq.com"
 	}],
 	"support": {
 		"issues": "https://github.com/wgy981930674/flarum-ldap.git/issues",
@@ -18,7 +18,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"TitusPiJean\\Flarum\\Auth\\LDAP\\": "src/"
+			"981930674\\FlarumLDAP\\": "src/"
 		}
 	},
 	"extra": {
