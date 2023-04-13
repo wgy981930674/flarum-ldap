@@ -1,5 +1,5 @@
 {
-	"name": "tituspijean/flarum-ext-auth-ldap",
+	"name": "tituspijean/flarum-ext-auth-ldap1",
 	"description": "1Allow users to log in through LDAP.",
 	"type": "flarum-extension",
 	"keywords": ["authentication"],
@@ -9,8 +9,8 @@
 		"email": "tituspijean@outlook.com"
 	}],
 	"support": {
-		"issues": "https://github.com/tituspijean/flarum-ext-auth-ldap/issues",
-		"source": "https://github.com/tituspijean/flarum-ext-auth-ldap"
+		"issues": "https://github.com/wgy981930674/flarum-ldap.git/issues",
+		"source": "https://github.com/wgy981930674/flarum-ldap.git"
 	},
 	"require": {
 		"flarum/core": "^1.0",
